@@ -2,6 +2,12 @@
 
 A mobile application that colorizes black and white images using AI, consisting of a Flask backend server and a React Native mobile app.
 
+## App Preview
+
+Below is an illustration of the **Image Colorizer** mobile application and its colorization results.
+
+![App Preview](assets/img.png)
+
 ## Project Structure
 
 - `BE-Image-colorizer/` - Backend Flask server with AI model
